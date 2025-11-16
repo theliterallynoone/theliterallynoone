@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**theliterallynoone/theliterallynoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Darcy  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An aspiring ML enthusiast with a soft spot for **quantum mechanics**.  
+Currently grinding on algorithms, data structures, and neural networks — one commit at a time.
+
+---
+
+## 🔭 Currently dedicating myself towards:
+- Machine Learning / Deep Learning  
+- Quantum Computing / Quantum Mechanics
+
+---
+
+
+### *“Time to get purposefully uncomfortable, wouldn't you say?”*
+
+</div>
+
