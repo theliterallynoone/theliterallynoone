@@ -4,13 +4,12 @@
 
 
 An aspiring ML enthusiast with a soft spot for **quantum mechanics**.  
-Currently grinding on algorithms, data structures, and neural networks — one commit at a time.
+Currently grinding on algorithms, data structures, and neural networks - one commit at a time.
 
 ---
 
-## 🔭 Currently dedicating myself towards:
-- Machine Learning / Deep Learning  
-- Quantum Computing / Quantum Mechanics
+## 🔭 Currently dedicating myself towards
+ Machine Learning, Deep Learning, Quantum Computing and Quantum Mechanics
 
 ---
 
