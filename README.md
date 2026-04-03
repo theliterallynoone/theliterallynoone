@@ -1,20 +1,6 @@
-<div align="center">
+ hey 
 
-# 👋 Hey there, I'm Darcy  
+i like figuring out how things work- lately through ml and a bit of physics
+currently building small projects (and breaking them) to understand models, data, and behaviour better
 
-
-An aspiring ML enthusiast with a soft spot for **quantum mechanics**.  
-Currently grinding on algorithms, data structures, and neural networks - one commit at a time.
-
----
-
-## 🔭 Currently dedicating myself towards
- Machine Learning, Deep Learning, Quantum Computing and Quantum Mechanics
-
----
-
-
-### *“Time to get purposefully uncomfortable, wouldn't you say?”*
-
-</div>
-
+not an expert, just curious and consistent
