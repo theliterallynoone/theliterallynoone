@@ -1,7 +1,10 @@
- hey 
+hey.
 
-i like figuring out how things work- lately through ml and a bit of physics
+i build.
 
-currently building small projects (and breaking them) to understand models, data, and behaviour better
+i learn.
 
-not an expert, just curious and consistent
+i repeat.
+
+currently interested in
+physics and machine learning.
