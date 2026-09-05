@@ -1,10 +1,4 @@
-wsg
-
-i build.
-
-i learn.
-
-i repeat.
+hi im dev
 
 currently interested in
 physics and machine learning.
